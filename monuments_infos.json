@@ -1,0 +1,107 @@
+{
+  "Almoravid_Koubba": {
+    "lieu": "Marrakech, Maroc",
+    "date": "XIIe siècle (vers 1117)",
+    "description": "Monument almoravide remarquable pour son architecture et ses décorations sculptées, vestige important de la dynastie almoravide."
+  },
+  "Jardin_Majorelle": {
+    "lieu": "Marrakech, Maroc",
+    "date": "Créé en 1923",
+    "description": "Jardin botanique célèbre pour son bleu intense et sa collection de plantes exotiques, restauré par Yves Saint Laurent."
+  },
+  "Kasbah_Amridil": {
+    "lieu": "Skoura, Maroc",
+    "date": "XVIIe siècle",
+    "description": "Kasbah traditionnelle en pisé, symbole de l’architecture du sud marocain."
+  },
+  "Kasbah_de_Beni_Mellal": {
+    "lieu": "Beni Mellal, Maroc",
+    "date": "XVIIe siècle",
+    "description": "Forteresse construite sous le règne du sultan Moulay Ismail pour renforcer la défense de la région."
+  },
+  "Kasbah_de_Taourirt": {
+    "lieu": "Ouarzazate, Maroc",
+    "date": "XVIIe siècle",
+    "description": "Grande kasbah en terre crue ayant servi de résidence au pacha de Marrakech."
+  },
+  "Kasbah_des_Oudayas": {
+    "lieu": "Rabat, Maroc",
+    "date": "XIIe siècle",
+    "description": "Forteresse historique surplombant l’océan Atlantique, célèbre pour son architecture et ses ruelles blanches et bleues."
+  },
+  "Ksar_d’Aït_Ben_Haddou": {
+    "lieu": "Aït Ben Haddou, Maroc",
+    "date": "XVIIe siècle",
+    "description": "Village fortifié classé au patrimoine mondial de l’UNESCO, exemple remarquable d’architecture en terre."
+  },
+  "Mausolee_de_Mohammed V": {
+    "lieu": "Rabat, Maroc",
+    "date": "1971",
+    "description": "Monument abritant les tombeaux du roi Mohammed V et de ses fils, chef-d’œuvre de l’architecture moderne marocaine."
+  },
+  "Mosquee_Hassan II": {
+    "lieu": "Casablanca, Maroc",
+    "date": "1993",
+    "description": "Grande mosquée située au bord de l’océan, célèbre pour son minaret de 210 mètres, l’un des plus hauts du monde."
+  },
+  "Mosquee_Koutoubia": {
+    "lieu": "Marrakech, Maroc",
+    "date": "XIIe siècle",
+    "description": "Mosquée emblématique de Marrakech, connue pour son minaret qui domine la ville."
+  },
+  "Mosquee_Tinmal": {
+    "lieu": "Tinmel, Maroc",
+    "date": "XIIe siècle",
+    "description": "Mosquée historique de l’époque almohade, située dans le Haut Atlas."
+  },
+  "Mosquee_de_la_Kasbah": {
+    "lieu": "Marrakech, Maroc",
+    "date": "XIIe siècle",
+    "description": "Mosquée almohade également appelée mosquée Moulay El Yazid."
+  },
+  "Palais_El_Badi": {
+    "lieu": "Marrakech, Maroc",
+    "date": "XVIe siècle",
+    "description": "Ancien palais saadien connu pour ses vastes cours et ses vestiges majestueux."
+  },
+  "Palais_de_la_Bahia": {
+    "lieu": "Marrakech, Maroc",
+    "date": "XIXe siècle",
+    "description": "Palais somptueux célèbre pour ses jardins, patios et décorations raffinées."
+  },
+  "Place_Jemaa_el-Fna": {
+    "lieu": "Marrakech, Maroc",
+    "date": "XIe siècle",
+    "description": "Place centrale animée, célèbre pour ses spectacles, marchés et gastronomie de rue."
+  },
+  "Tombeaux_Saadiens": {
+    "lieu": "Marrakech, Maroc",
+    "date": "XVIe siècle",
+    "description": "Nécropole royale de la dynastie saadienne, redécouverte au début du XXe siècle."
+  },
+  "Volubilis meknès": {
+    "lieu": "Près de Meknès, Maroc",
+    "date": "IIIe siècle av. J.-C.",
+    "description": "Site archéologique romain classé au patrimoine mondial de l’UNESCO."
+  },
+  "chellah": {
+    "lieu": "Rabat, Maroc",
+    "date": "Antiquité et époque médiévale",
+    "description": "Site archéologique combinant vestiges romains et mérinides."
+  },
+  "kasbah d'agadir oufella": {
+    "lieu": "Agadir, Maroc",
+    "date": "XVIe siècle",
+    "description": "Ancienne forteresse dominant la ville d’Agadir, partiellement détruite par le séisme de 1960."
+  },
+  "menara": {
+    "lieu": "Marrakech, Maroc",
+    "date": "XIIe siècle",
+    "description": "Jardins célèbres pour leur bassin et leur pavillon avec vue sur l’Atlas."
+  },
+  "palais royal de fès": {
+    "lieu": "Fès, Maroc",
+    "date": "XIVe siècle",
+    "description": "Palais officiel de la monarchie marocaine, célèbre pour ses portes monumentales."
+  }
+}
